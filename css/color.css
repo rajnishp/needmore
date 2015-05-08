@@ -15,10 +15,17 @@
     background-color: #0099e6;
 }
 
+.btn-custom-1 {
+    background-color: #570B41;
+}
+
+.btn-custom-2 {
+    background-color: #570B41;
+}
+
 .btn-custom-border {
     background: transparent;
-    border-color: #0099e6;
-    color: #ffffff;
+    
 }
 
 .features .feature .icon-container .icon {
